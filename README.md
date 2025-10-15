@@ -105,7 +105,7 @@ Join our Evolution Pro community for expert support and a weekly call to answer 
 
 #### Github Sponsors
 
-https://github.com/sponsors/EvolutionAPI
+https://github.com/sponsors/EvolutionAPI-
 
 # Content Creator Partners
 
